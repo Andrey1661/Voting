@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<QuestionnaireViewModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>Викторина по экологии</Title>
+  <Questions>
+    <QuestionViewModel>
+      <Text>Все мероприятия по охране окружающей среды при строительстве нефтепромысловых предприятий должны быть выполнены в соответствии с рабочим:</Text>
+      <Number>0</Number>
+      <CorrectOptionNumber>0</CorrectOptionNumber>
+      <Options>
+        <OptionViewModel>
+          <Number>0</Number>
+          <Text>Планом</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>1</Number>
+          <Text>Решением</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>2</Number>
+          <Text>Проектом</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>3</Number>
+          <Text>Заданием</Text>
+        </OptionViewModel>
+      </Options>
+    </QuestionViewModel>
+    <QuestionViewModel>
+      <Text>Комплексные исследования компонентов окружающей среды, а также техногенных и социально-экономических условий в районе расположения проектируемого объекта с целью экологического обоснования строительства и иной хозяйственной деятельности называются:</Text>
+      <Number>1</Number>
+      <CorrectOptionNumber>0</CorrectOptionNumber>
+      <Options>
+        <OptionViewModel>
+          <Number>0</Number>
+          <Text>Биологические исследования</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>1</Number>
+          <Text>Инженерно-экологические изыскания</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>2</Number>
+          <Text>Исследования ООС</Text>
+        </OptionViewModel>
+      </Options>
+    </QuestionViewModel>
+    <QuestionViewModel>
+      <Text>Предприятия добычи и внутрипромыслового транспорта нефти, газа и воды, имеющие выбросы вредных веществ в атмосферу разрабатывают проект:</Text>
+      <Number>2</Number>
+      <CorrectOptionNumber>0</CorrectOptionNumber>
+      <Options>
+        <OptionViewModel>
+          <Number>0</Number>
+          <Text>УДЗП-удельных долей загрязняющих продуктов</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>1</Number>
+          <Text>ВДВ – внешних долго распадающихся веществ</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>2</Number>
+          <Text>ПДВ - предельно допустимых выбросов</Text>
+        </OptionViewModel>
+      </Options>
+    </QuestionViewModel>
+    <QuestionViewModel>
+      <Text>Нормативно-правовой акт, устанавливающий экологические права и обязанности субъектам экологического права:</Text>
+      <Number>3</Number>
+      <CorrectOptionNumber>0</CorrectOptionNumber>
+      <Options>
+        <OptionViewModel>
+          <Number>0</Number>
+          <Text>Конституция РФ</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>1</Number>
+          <Text>ФЗ “Об охране природной среды</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>2</Number>
+          <Text>Декларация прав и свобод человека и гражданина</Text>
+        </OptionViewModel>
+      </Options>
+    </QuestionViewModel>
+    <QuestionViewModel>
+      <Text>Экологический мониторинг – это:</Text>
+      <Number>4</Number>
+      <CorrectOptionNumber>0</CorrectOptionNumber>
+      <Options>
+        <OptionViewModel>
+          <Number>0</Number>
+          <Text>управление качеством природной среды</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>1</Number>
+          <Text>проверка деятельности предприятий по соблюдению ими экологического законодательства</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>2</Number>
+          <Text>система наблюдений с целью оценки и прогноза изменений состояния окружающей среды под влиянием антропогенной нагрузки</Text>
+        </OptionViewModel>
+      </Options>
+    </QuestionViewModel>
+    <QuestionViewModel>
+      <Text>Не существующий вид экологического контроля, это:</Text>
+      <Number>5</Number>
+      <CorrectOptionNumber>0</CorrectOptionNumber>
+      <Options>
+        <OptionViewModel>
+          <Number>0</Number>
+          <Text>Государственный</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>1</Number>
+          <Text>Территориальный</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>2</Number>
+          <Text>Производственный</Text>
+        </OptionViewModel>
+      </Options>
+    </QuestionViewModel>
+    <QuestionViewModel>
+      <Text>Согласно положениям Федерального Закона РФ «Об охране окружающей среды» (2002), граждане обязаны:</Text>
+      <Number>6</Number>
+      <CorrectOptionNumber>0</CorrectOptionNumber>
+      <Options>
+        <OptionViewModel>
+          <Number>0</Number>
+          <Text>сохранять природу и окружающую среду</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>1</Number>
+          <Text>принимать участие в референдумах по вопросам охраны окружающей среды</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>2</Number>
+          <Text>оказывать содействие органам государственной власти в решении вопросов охраны окружающей среды</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>3</Number>
+          <Text>участвовать в проведении слушаний по вопросам размещения объектов, деятельность которых может нанести вред окружающей среде</Text>
+        </OptionViewModel>
+      </Options>
+    </QuestionViewModel>
+    <QuestionViewModel>
+      <Text>Всемирный день охраны окружающей среды отмечают:</Text>
+      <Number>7</Number>
+      <CorrectOptionNumber>0</CorrectOptionNumber>
+      <Options>
+        <OptionViewModel>
+          <Number>0</Number>
+          <Text>5 июня</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>1</Number>
+          <Text>5 мая</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>2</Number>
+          <Text>5 августа</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>3</Number>
+          <Text>5 июля</Text>
+        </OptionViewModel>
+      </Options>
+    </QuestionViewModel>
+    <QuestionViewModel>
+      <Text>3аключение государственной экологической экспертизы:</Text>
+      <Number>8</Number>
+      <CorrectOptionNumber>0</CorrectOptionNumber>
+      <Options>
+        <OptionViewModel>
+          <Number>0</Number>
+          <Text>носит информационный характер</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>1</Number>
+          <Text>не обязательно для исполнения</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>2</Number>
+          <Text>носит рекомендательный характер</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>3</Number>
+          <Text>является обязательным для исполнения</Text>
+        </OptionViewModel>
+      </Options>
+    </QuestionViewModel>
+    <QuestionViewModel>
+      <Text>Устойчивое развитие означает:</Text>
+      <Number>9</Number>
+      <CorrectOptionNumber>0</CorrectOptionNumber>
+      <Options>
+        <OptionViewModel>
+          <Number>0</Number>
+          <Text>Развитие общества по экспоненциальной кривой</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>1</Number>
+          <Text>Право людей на здоровую и плодотворную жизнь в гармонии с природой</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>2</Number>
+          <Text>Демографический рост населения</Text>
+        </OptionViewModel>
+        <OptionViewModel>
+          <Number>3</Number>
+          <Text>Создание свободного общества</Text>
+        </OptionViewModel>
+      </Options>
+    </QuestionViewModel>
+  </Questions>
+</QuestionnaireViewModel>
