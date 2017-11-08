@@ -16,6 +16,6 @@ namespace Voting.ViewModels
 
         public string Patronymic { get; set; }
 
-        public int Result { get; set; }
+        public int Points { get; set; }
     }
 }

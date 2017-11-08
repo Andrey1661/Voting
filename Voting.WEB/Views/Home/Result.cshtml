@@ -1,8 +1,10 @@
 ﻿@model Voting.ViewModels.UserResponceViewModel
 
-@{
-    ViewBag.Title = "Result";
-}
-
-<h2>Ваш результат: @Model.Points</h2>
+<div class="row">
+    <div class="col-md-offset-3 col-md-6 text-center">
+        <h2>Спасибо за прохождение теста.</h2>
+        <h3>Ваш результат: @Model.Points @(Model.Points == 1 ? "балл" : Model.Points != 0 && Model.Points < 5 ? "балла" : "баллов")</h3>
+        @Html.ActionLink("Верунться на начальную страницу", "Questionnaire")
+    </div>
+</div>
 

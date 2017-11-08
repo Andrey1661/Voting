@@ -34,7 +34,7 @@ namespace Voting.DataAccess.Implementation.Commands
             user.Points = QuestionnaireManager.CalculateResults(model);
             user.PassDate = DateTime.Now;
 
-            if (user.UserId == Guid.Empty)
+            if (user.Id == Guid.Empty)
             {
                 Context.Users.Add(user);
             }

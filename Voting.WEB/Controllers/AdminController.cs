@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 using Ninject;
+using PagedList;
 using Voting.DataAccess;
 using Voting.ViewModels;
 

@@ -30,7 +30,7 @@ namespace Voting.DataAccess.Implementation.Commands
                 EnableSsl = true
             };
 
-            MailMessage message = new MailMessage();
+            MailMessage message = new MailMessage {From = new MailAddress(_login)};
 
             foreach (var reciever in recievers)
             {

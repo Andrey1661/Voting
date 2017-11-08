@@ -45,8 +45,18 @@ namespace Voting.WEB.Controllers
             }
 
             UserResult result = Mapper.Map<UserResponceViewModel, UserResult>(responce);
-            //await SendResultCommand.ExecuteAsync(result, );
 
+            var userList = new List<string> {"shedogubov.andrey96@gmail.com"};
+
+            try
+            {
+                await SendResultCommand.ExecuteAsync(result, userList);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
+            
             return View("Result", responce);
         }
     }

@@ -15,7 +15,7 @@ namespace Voting.DataAccess.Implementation
 
             sb.AppendLine($"<span><b>Домен: </b>{user.Domain}</span>");
             sb.AppendLine($"<span><b>ФИО: </b>{user.LastName} {user.FirstName} {user.Patronymic}</span>");
-            sb.AppendLine($"<span><b>Результат: {user.Result}</b>{user.Domain}</span>");
+            sb.AppendLine($"<span><b>Результат: {user.Points}</b>{user.Domain}</span>");
 
             return sb.ToString();
         }
